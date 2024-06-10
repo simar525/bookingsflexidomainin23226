@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://testtt.trafft.com/$1"
+      "destination": "https://testtt.trafft.com/services/$1"
     }
   ]
 }
